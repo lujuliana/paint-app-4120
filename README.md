@@ -1,1 +1,1 @@
-![Screenshot of working app](public/Screenshot 2024-04-20 at 1.12.49 AM.png)
+<img src="/public/Screenshot 2024-04-20 at 1.12.49 AM.png" alt="image" />
