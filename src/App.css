@@ -39,14 +39,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap'); 
 
-/* p {
-    line-height:25px;
-    font-family: "Protest Strike";
-    font-weight: bold;
-    margin-top: 20px;
-    color: black
-} */
-
 body {
     /* background-color: rgb(233, 249, 251);
     padding: 0px 50px 0px 50px; */
@@ -67,40 +59,39 @@ h1 {
 
 label {
     font-family: 'Cute Font'; 
-    font-size: 30px; 
-    color: black; 
+    font-size: 25px; 
+    color: white; 
 }
 
-.draw-area {
+.canvas {
     display: block;
     border-style: solid;
-    border-color: black;
+    border-color: white;
     border-width: 1px;
     background-color: white;
 }
 
 .Menu {
     width: 550px; 
-    height: 150px; 
+    height: 50px; 
     display: flex; 
     justify-content: space-evenly; 
     border-radius: 5px; 
     align-items: center; 
-    /* background-color: #ffffff;  */
     margin: auto; 
     margin-top: 0px;
     margin-bottom: 10px;
 }
 
 button {
-  background-color: rgba(255, 255, 255, 0.653);
+  background-color: white;
   border-radius: 8px;
   border-width: 0;
-  color: #333333;
+  color: #4a6978;
   cursor: pointer;
   display: inline-block;
   font-family: "Cute Font";
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 500;
   line-height: 20px;
   list-style: none;
